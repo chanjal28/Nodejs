@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Softwarekt-Ra-webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54E52FA4B2E14F16A26015DC43154544 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_414C59610F324BE7A92FE1EB15E5C447 }}
           package: .
